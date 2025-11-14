@@ -12,7 +12,7 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los **fundament
 
 > Todo el código se ejecuta en editores online gratuitos como Replit, JDoodle u OnlineGDB. No es necesario crear cuentas para comenzar a programar.
 
-** Repositorio de Código Fuente**:  
+**Repositorio de Código Fuente**:  
 [https://github.com/your-org/java-fundamentals-course-teamname]()
 
 ---
@@ -166,15 +166,15 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202520  
 1ASI0729 Desarrollo de Aplicaciones Open Source  
-NRC: 7344
+**NRC**: 7344
 
-**Nombre del equipo**: [Soda]  
-**Líder del equipo**: [Sebastian Matias Escobar Palomino]  
+**Nombre del equipo**: SODA  
+**Líder del equipo**: Sebastian Matias Escobar Palomino  
 **Integrantes del equipo**:  
-- [Allcca Guerrero, Irving]  
-- [Escobar Palomino, Sebastian Matias]  
-- [Gonza Morales, Anderson]  
-- [Nuñez Soto, Andy Arturo]  
-- [Pastor Napa, Juan]  
+- Allcca Guerrero, Irving
+- Escobar Palomino, Sebastian Matias
+- Gonza Morales, Anderson 
+- Nuñez Soto, Andy Arturo 
+- Pastor Napa, Juan
 
-**Fecha de entrega**: [14/11/2025]
+**Fecha de entrega**: 14/11/2025
