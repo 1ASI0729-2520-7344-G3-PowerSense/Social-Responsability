@@ -19,49 +19,49 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los **fundament
 
 ## Secuencia de la Lección
 
-### Lección 1: ¿Qué es programar? Introducción a Java y al editor online (5 minutos)  
+### Lección 1: ¿Qué es programar? Introducción a Java y al editor online 
 - **Video**: [YouTube – Lección 1](https://youtu.be/QXZYiQd0884)  
 - **Práctica**: [Replit – Hola Mundo en Java](https://replit.com/languages/java10)
 
 ---
 
-### Lección 2: Variables (8 minutos)  
+### Lección 2: Variables
 - **Video**: [YouTube – Lección 2](https://youtu.be/xACGE6UdwV4)  
 - **Práctica**: [JDoodle – Variables simples](https://www.jdoodle.com/online-java-compiler-idem)
 
 ---
 
-### Lección 3: Operadores (7 minutos)  
+### Lección 3: Operadores 
 - **Video**: [YouTube – Lección 3](https://youtu.be/MBH3ZCO_4lI)  
 - **Práctica**: [JDoodle – Mini calculadora](https://www.jdoodle.com/online-java-compiler-idem)
 
 ---
 
-### Lección 4: Decisiones y bucles (10 minutos)  
+### Lección 4: Decisiones y bucles 
 - **Video**: [YouTube – Lección 4](https://youtu.be/6cxJaLYf-Yk)  
 - **Práctica**: [Replit – Contador de intentos](https://replit.com/languages/java10)
 
 ---
 
-### Lección 5: Métodos y entrada de datos (10 minutos)  
+### Lección 5: Métodos y entrada de datos   
 - **Video**: [YouTube – Lección 5](https://youtu.be/gcV3425txkM)  
 - **Práctica**: [JDoodle – Programa que saluda al usuario](https://www.jdoodle.com/online-java-compiler-idem)
 
 ---
 
-### Lección 6: Ejercicio con funciones (10 minutos)  
+### Lección 6: Ejercicio con funciones
 - **Video**: [YouTube – Lección 6](https://youtu.be/exQoKww83Dw)  
 - **Práctica**: [JDoodle – Calculadora con funciones](https://www.jdoodle.com/online-java-compiler-idem)
 
 ---
 
-### Lección 7: Programación Orientada a Objetos – Clases y objetos (10 minutos)  
+### Lección 7: Programación Orientada a Objetos – Clases y objetos 
 - **Video**: [YouTube – Lección 7](https://youtu.be/kePcCHxV91E)  
 - **Práctica**: [Replit – Clase Estudiante](https://replit.com/languages/java10)
 
 ---
 
-### Lección 8 / Final: Mini Proyecto – Registro de Mascotas (10 minutos)  
+### Lección 8 / Final: Mini Proyecto – Registro de Mascotas
 - **Video**: [YouTube – Lección Final / Proyecto](https://youtu.be/KIqwgmZoQQk)  
 - **Práctica**: [JDoodle – Registro de Mascotas](https://www.jdoodle.com/online-java-compiler-idem)
 
